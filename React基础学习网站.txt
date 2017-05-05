@@ -1,0 +1,20 @@
+React 官网
+https://facebook.github.io/react/
+
+React UI
+http://lobos.github.io/react-ui/0.6/#/button
+
+React 中文版（极客学院）
+http://wiki.jikexueyuan.com/project/react/
+
+React 入门实例教程（阮一峰博客）
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+React Router 使用教程
+http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu
+
+react-redux api中文文档
+http://cn.redux.js.org/
+http://cn.redux.js.org/docs/introduction/index.html
+http://cn.redux.js.org/docs/react-redux/api.html
+https://gismanli.github.io/MobX-ZH/refguide/computed-decorator.html
